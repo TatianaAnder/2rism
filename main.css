@@ -27,7 +27,7 @@ html, body {
     height: 800px;
     padding-top: 31px;
 
-    background-image: url('../imges/header-bg.jpg');
+    background-image: url('/imges/header-bg.jpg');
     background-position: center center;
     background-size: cover;
 
